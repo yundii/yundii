@@ -1,4 +1,6 @@
-![Yundi GIF](4.gif)
+<div align="center">
+  <img src="4.gif" alt="Yundi GIF">
+</div>
 <div align="center">
 <h1 align="center">Hi 👋🏻, I'm Yundi 🍡</h1> 
 <h3 align="center">A passionate Full Stack Developer 👩🏻‍💻</h3>
