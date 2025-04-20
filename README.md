@@ -13,6 +13,9 @@
 🎹 Music 🍽️ Food Tasting   🎮 Gaming
 
 📫 How to reach me **tao.yun@northeastern.edu**
+<p align="center">
+  📂 Check out my portfolio here <strong><a href="https://yundiitao.netlify.app/" target="_blank">yundiitao.netlify.app</a></strong>
+</p>
 
 <h3>#Skills#</h3>
 <h4>Programming Languages</h4>
